@@ -85,5 +85,3 @@ A video demonstration shows:
 - Uses functional updates to ensure correct state handling
 - Spread operator is applied at multiple levels for immutability
 
-## Author
-Paulina Salomon
