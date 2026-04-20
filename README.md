@@ -12,11 +12,6 @@ This project demonstrates how to manage nested state in React using the useState
 - Real-time UI updates
 - Handles partial and empty inputs gracefully
 
-## Technologies Used
-- React
-- JavaScript (ES6+)
-- CSS
-
 ## How to Run the Project
 
 1. Clone the repository:
@@ -32,7 +27,7 @@ npm install
 npm start
 
 5. Open in your browser:
-http://localhost:3000
+[http://localhost:3000](http://localhost:5173/)
 
 ## Project Structure
 src/
