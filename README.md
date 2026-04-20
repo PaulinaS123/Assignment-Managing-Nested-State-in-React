@@ -27,7 +27,7 @@ npm install
 npm start
 
 5. Open in your browser:
-[http://localhost:3000](http://localhost:5173/)
+(http://localhost:5173/)
 
 ## Project Structure
 src/
