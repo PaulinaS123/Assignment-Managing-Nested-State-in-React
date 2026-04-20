@@ -18,7 +18,7 @@ This project demonstrates how to manage nested state in React using the useState
 ## How to Run the Project
 
 1. Clone the repository:
-git clone https://github.com/your-username/profile-app.git
+git clone https://github.com/PaulinaS123/profile-app.git
 
 2. Navigate into the project folder:
 cd profile-app
@@ -30,7 +30,7 @@ npm install
 npm start
 
 5. Open in your browser:
-http://localhost:3000
+http://localhost:5173/
 
 ## Project Structure
 src/
